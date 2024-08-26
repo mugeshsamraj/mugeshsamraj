@@ -3,7 +3,7 @@
 - 👀 I’m interested in web development, particularly in building scalable and efficient front-end applications.
 - 🌱 I’m currently learning advanced React concepts, state management, and exploring backend technologies.
 - 💞️ I’m looking to collaborate on open-source projects or innovative web applications.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mugeshsamraj/) | [Email](mugeshsamraj@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mugeshsamraj/) | [Email](mailto:mugeshsamraj@gmail.com)
 
 ---
 
